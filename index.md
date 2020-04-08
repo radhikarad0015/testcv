@@ -1,0 +1,31 @@
+<html>
+<head>
+<title>Radhika resume</title>
+</head>
+<body>
+<img src="C:\Users\intel 2july19\Desktop\webassign\rady.jpg" alt="Radhika profile" style="width:100px;height:200px;">
+<h1>R.RADHIKA RAMESH</h1>
+<P>B.TECH-IT</P>
+<hr>
+<h3>Objective</h3>
+<p>To join in a dynamic working environment ,
+     where my knowledge can be effectively utilized for achieving the targets of organization 
+     and simultaneously I can grow up in my profession with the growth of the organisation.  </p>
+     <hr>
+     <h3>Achievements</h3>
+     <p>Participated in SMART INDIA HACKATHON PROJECT COMPETITION  ,qualified to FINALS ,
+          in Guru nanak college of engineering , kolkata in march 2018.   </p>
+          <hr>
+		  <h3>Education qualification</h3>
+		  <p>Sri Manakula Vinayagar Engineering College<br>
+		  cgpa 7.0 <br>
+		  Pondicherry</p>
+		  <hr>
+		  <h3>Skill </h3>
+		  <p> Java </p> 
+		  <p> HTML/CSS </p> 
+		  <p> Javascript </p> 
+		  <p> MySql </p> 
+		  <a href="contact.html">Contact me</a>
+		  </body>
+		  </html>
